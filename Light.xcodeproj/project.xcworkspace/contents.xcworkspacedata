@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/4d/Desktop/Flashlight App/Light.xcodeproj">
    </FileRef>
 </Workspace>

@@ -206,7 +206,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7E8597362ABB5DEE008EA2D2 /* Build configuration list for PBXProject "Flashlight App" */;
+			buildConfigurationList = 7E8597362ABB5DEE008EA2D2 /* Build configuration list for PBXProject "Light" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -559,7 +559,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7E8597362ABB5DEE008EA2D2 /* Build configuration list for PBXProject "Flashlight App" */ = {
+		7E8597362ABB5DEE008EA2D2 /* Build configuration list for PBXProject "Light" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7E8597632ABB5DF1008EA2D2 /* Debug */,
